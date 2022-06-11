@@ -7,7 +7,7 @@ Seja bem vindo ao meu perfil no GitHub!
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://us.v-cdn.net/6025736/uploads/editor/y4/1ylpd3npaw60.gif" /> -->
 
-# Sou um programador Front-end:
+# Sou um programador Back-end:
 - 💻 Atualmente trabalho desenvolvendo backend usando c# e .net.  
 - 📜 Estudando para dev backend em jogos e para API.
 - 📫 Contatos: [Linkedin](www.linkedin.com/in/paulombittencourt//)
