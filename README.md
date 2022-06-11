@@ -12,8 +12,6 @@ Seja bem vindo ao meu perfil no GitHub!
 - 📜 Estudando para dev backend em jogos e para API.
 - 📫 Contatos: [Linkedin](www.linkedin.com/in/paulombittencourt//)
 
----
-
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 ---
 
